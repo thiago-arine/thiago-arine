@@ -1,15 +1,15 @@
 # 👋 Hi there
 
 I'm Thiago Arine, an aspiring developer. I'm studying at IFSP, where I'm building my programming skills. </br>
-As I'm starting my journey in the tech world, I'm eager to explore new technologies and always looking for opportunities to learn and grow.
+As I start my journey in the tech world, I'm eager to explore new technologies and always look for opportunities to learn and grow.
 
 > There are no two words in the English language more harmful than "good job" — J.K. Simmons
 
 # :jigsaw: Experience
 
-Passionate about technology and problem-solving, I am a student of Systems Development, eager to explore the vast world of software engineering. As I embark on this journey, I am building a solid foundation in Python, C, HTML, and CSS, with a particular interest in web development and backend programming.
+Passionate about technology and problem-solving, I am a Systems Development student eager to explore the vast world of software engineering. As I embark on this journey, I am building a solid foundation in Python, C, HTML, and CSS, with a particular interest in web development and backend programming.
 
-Beyond coding, I enjoy collaborating on projects, refining my skills with Git and GitHub, and learning from the developer community. My goal is to not only master the technical aspects but also to understand how technology can create meaningful and efficient solutions.
+Beyond coding, I enjoy collaborating on projects, refining my skills with Git and GitHub, and learning from the developer community. My goal is to master the technical aspects and understand how technology can create meaningful and efficient solutions.
 
 # :desktop_computer: Tech Stack
 
