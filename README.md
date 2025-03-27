@@ -9,12 +9,11 @@ As I start my journey in the tech world, I'm eager to explore new technologies a
 
 Passionate about technology and problem-solving, I am a Systems Development student eager to explore the vast world of software engineering. As I embark on this journey, I am building a solid foundation in Python, C, HTML, and CSS, with a particular interest in web development and backend programming.
 
-Beyond coding, I enjoy collaborating on projects, refining my skills with Git and GitHub, and learning from the developer community. My goal is to master the technical aspects and understand how technology can create meaningful and efficient solutions.
+Beyond coding, I enjoy collaborating on projects, refining my skills with Git and GitHub, and learning from the developer community. I aim to master the technical aspects and understand how technology can create meaningful and efficient solutions.
 
 # :desktop_computer: Tech Stack
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 # 🌐 Socials
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-arine/) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiago.arine/)
