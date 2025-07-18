@@ -1,4 +1,4 @@
-# 👋 Hi there
+# Hi there
 
 I'm Thiago Arine, an aspiring developer. I'm studying at IFSP, where I'm building my programming skills. </br>
 As I start my journey in the tech world, I'm eager to explore new technologies and always look for opportunities to learn and grow.
@@ -18,7 +18,7 @@ Beyond coding, I enjoy collaborating on projects, refining my skills with Git an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/thiago-arine) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiago.arine/)
 
-# :star: Github Stats
+# :dizzy: Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-arine&show_icons=true&theme=transparent)
 
