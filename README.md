@@ -7,7 +7,7 @@ As I start my journey in the tech world, I'm eager to explore new technologies a
 
 # :jigsaw: Experience
 
-Passionate about technology and problem-solving, I am a Systems Development student eager to explore the vast world of software engineering. As I embark on this journey, I am building a solid foundation in Python, C, JavaScript, HTML, and CSS, with a particular interest in web development and backend programming.
+Passionate about technology and problem-solving, I am a Systems Development student eager to explore the vast world of software engineering. As I embark on this journey, I am building a solid foundation in Python, C, JavaScript, HTML and CSS, with a particular interest in web development and backend programming.
 
 Beyond coding, I enjoy collaborating on projects, refining my skills with Git and GitHub, and learning from the developer community. I aim to master the technical aspects and understand how technology can create meaningful and efficient solutions.
 
